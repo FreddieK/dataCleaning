@@ -6,13 +6,13 @@ The features in X have been subsetted as to only filter out measurements relatin
 # summarisedDataSet.csv
 This summarised data set groups the above data by Subject and Activity and calculates the mean values based on that.
 
-Variables:
+#Variables:
 
-Grouping:
+##Grouping:
 - Subject
 - Activity
 
-Measurements:
+## Measurements:
 "1" "tBodyAcc-mean()-X"
 
 "2" "tBodyAcc-mean()-Y"
